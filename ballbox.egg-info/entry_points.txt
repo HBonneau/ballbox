@@ -1,0 +1,2 @@
+[console_scripts]
+ballbox = ballbox.main:main
